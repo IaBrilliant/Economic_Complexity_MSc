@@ -1,0 +1,76 @@
+﻿Product,Group,Product_code,Weight,Color
+Instruments and apparatus: for measuring or checking the flow or level of liquids,Plant,902680,3,Brown
+Cables,Plant,854420,3,Brown
+Electric heaters,Plant,851610,2,Brown
+Pressure relief valves,Plant,848140,3,Brown
+Control valves,Plant,848110,3,Brown
+Air cooler,Plant,841990,3,Brown
+Heat exchangers,Plant,841950,2,Brown
+Freezing equipment,Plant,841869,2,Brown
+Compressor#1,Plant,841861,2,Brown
+Compressor#2,Plant,841830,2,Brown
+Air cooler,Plant,841583,3,Brown
+Air cooler,Plant,841582,3,Brown
+Air cooler,Plant,841581,3,Brown
+Compressor#3,Plant,841480,2,Brown
+Centrifugal pumps,Plant,841370,2,Brown
+Condenser,Plant,840420,2,Brown
+Basins,Plant,732490,3,Brown
+Basins,Plant,732410,3,Brown
+"Pipe, metallic",Plant,730451,2,Brown
+"Electrical control & distribution boards, >1 kV",Wind Turbine,853720,2,Dodgerblue
+Electric motors and generators: parts suitable for use solely or principally with the machines of heading no. 8501 or 8502,Wind Turbine,850300,1,Dodgerblue
+"Electric generating sets, nes",Wind Turbine,850230,1,Dodgerblue
+"AC generators, >750 kV A",Wind Turbine,850164,1,Dodgerblue
+"Gearing, ball screws",Wind Turbine,848340,2,Dodgerblue
+"Bearings, ball or roller nes",Wind Turbine,848280,2,Dodgerblue
+"Bearings, cylindrical roller",Wind Turbine,848250,2,Dodgerblue
+"Bearings, spherical roller",Wind Turbine,848230,2,Dodgerblue
+"Bearings, tapered roller",Wind Turbine,848220,2,Dodgerblue
+"Hydraulic/pneumatic power engine, parts",Wind Turbine,841290,2,Dodgerblue
+"Iron or steel: structures and parts thereof, n.e.s. in heading no. 7308",Wind Turbine,730890,2,Dodgerblue
+"Towers, iron/steel",Wind Turbine,730820,2,Dodgerblue
+Photosensitive/PV/LED semiconductor device,Solar PV,854140,1,Gold
+"Parts, electric switches, protectors & connectors nes",Solar PV,853890,2,Gold
+"Electrical control & distribution boards, <1 kV",Solar PV,853710,2,Gold
+Aluminum structures for construction,Solar PV,761090,2,Gold
+Electrical multimeters,Green,903031,2,Green
+"Electricity supply, calibration meters",Green,902830,2,Green
+Insulated electric conductors: for a voltage exceeding 1000 volts,Green,854460,2,Green
+Stack,Green,854330,1,Green
+Static converter,Green,850440,2,Green
+Transformers #1,Green,850434,2,Green
+Transformers #2,Green,850433,2,Green
+Pre-sediment filter,Green,842199,2,Green
+Pre-sediment filter,Green,842129,2,Green
+Pre-sediment filter,Green,842121,1,Green
+Rectifier,Green,841940,2,Green
+High-pressure pump,Green,841490,2,Green
+Ion Exchanger,Green,391400,1,Green
+Spunbond Polypropylene,Green,390210,2,Green
+Catalysts,Green,381512,1,Green
+Trailers nes for the transport of goods,Infrastructure,871639,2,Grey
+Tanks#1,Infrastructure,731100,2,Grey
+Tanks#2,Infrastructure,731010,2,Grey
+Tanks#3,Infrastructure,730900,2,Grey
+Pipeline steel,Infrastructure,730590,1,Grey
+Pipeline steel,Infrastructure,730511,1,Grey
+Pipeline steel,Infrastructure,730410,1,Grey
+Polytetrafluoroethylene ,Infrastructure,390461,1,Grey
+Floating or submersible drilling or production platforms,Blue,890520,1,Navy
+Filtering or purifying machinery for gases nes,Blue,842139,1,Navy
+Machinery for treatment by temperature change nes,Blue,841989,1,Navy
+Burners #1,Blue,841690,2,Navy
+Burners #2,Blue,841620,2,Navy
+Rotary positive displacement pumps nes,Blue,841360,2,Navy
+Boiler,Blue,840219,2,Navy
+Ducts,Blue,391732,3,Navy
+"Reaction initiators, reaction accelerators and catalytic preparations, unsupported, n.e.s. or included",Blue,381590,1,Navy
+Amine Solvents,Blue,292151,1,Navy
+Amine Solvents,Blue,292149,1,Navy
+Nuclear reactors: parts thereof,Nuclear,840140,1,Pink
+Fuel elements (cartridges): non-irradiated,Nuclear,840130,1,Pink
+"Machinery and apparatus: for isotopic separation, and parts thereof",Nuclear,840120,1,Pink
+Nuclear reactors,Nuclear,840110,1,Pink
+"Isotopes (excluding those of heading no. 2844): compounds, inorganic or organic, of such isotopes, whether or not chemically defined",Nuclear,284590,2,Pink
+Heavy water (deuterium oxide),Nuclear,284510,2,Pink
